@@ -1,7 +1,57 @@
-*{
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 /* write all your rules below */
+h1{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 10vh;
+    border:2vh solid red;
+    background-color:pink;
+
+}
+
+
+.Styling-box-1{
+background-color:aquamarine;
+width:100vw;
+padding: 25vh;
+
+
+
+}
+
+.Styling-box-2{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 3vw;
+    border:0.75vw solid peachpuff;
+    background-color: yellow;
+    height:20vh;
+    width:45vw;
+    
+}   
+
+#text-1{
+color:blue;
+
+
+}
+.text-2{
+ color:greenyellow
+
+
+}
+
+.text-3{
+
+    color:purple;
+}
+
+.text-4{
+
+    color:purple;
+}
